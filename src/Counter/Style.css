@@ -1,0 +1,12 @@
+button {
+    font-size: 30px;
+    color: blueviolet;
+    padding: 15px 30px;
+    background-color: white;
+    width: 100px;
+}
+
+.count {
+    font-size: 50px;
+    color: rgb(240, 8, 8);
+}
